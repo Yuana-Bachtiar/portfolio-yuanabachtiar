@@ -1,0 +1,24 @@
+/* body {
+  height: 2000px;
+} */
+
+#cv:hover {
+  background-color: red !important;
+}
+
+#contact:hover {
+  background-color: red !important;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.p-5 a:hover {
+  color: white;
+}
+
+#text_testimonial {
+  margin: 0% 12%;
+}
